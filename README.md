@@ -31,8 +31,33 @@ streamlit==1.49.0
 tensorflow==2.20.0
 numpy==2.3.2
 pillow==11.3.0
-
+```
 - Note: All other dependancies will be installed automatically
+
+## Here steps to run the Humang Action Recognition App Locally
+- 1. Create a new virtual environment and activate it ( Windows )
+     ```text
+     python -m venv venv
+     .\venv\Scripts\activate
+     ```
+- 2. Create a new virtual environment and activate it ( Linux / Mac )
+     ```text
+     python -m venv venv
+     source venv/bin/activate
+     ```
+- 3. Install all required packeges
+     ```text
+     pip install -r requirements.txt
+      ```
+     Note:Install one by one package to avoid conflict
+     ```text
+     pip install numpy==2.3.2
+     pip install pillow==11.3.0
+     pip install tensorflow==2.20.0
+     pip install streamlit==1.49.0
+     ```     
+     
+
 
 
 
