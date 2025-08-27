@@ -3,7 +3,7 @@
 ## 🌐 Live Demo
 ## [Click here to open the live app](https://human-action-recognition-system.streamlit.app/)
 
-This is a **Human Action Recognition (HAR)** web app built with **Streamlit** and **TensorFlow**.  
+This is a **Human Action Recognition** web app built with **Streamlit** and **TensorFlow**.  
 The app allows you to upload an image of a human performing an action, and it predicts the action from 15 supported classes.
 
 ---
@@ -19,6 +19,13 @@ The app allows you to upload an image of a human performing an action, and it pr
 ---
 
 ## 📂 Project Structure
+human_action_recognition/
+│
+├─ app.py # Main Streamlit app
+├─ trained-model.h5 # Pretrained HAR model
+├─ requirements.txt # Core packages used
+├─ README.md # This file
+└─ venv/ # Optional: virtual environment folder
 
 
 
