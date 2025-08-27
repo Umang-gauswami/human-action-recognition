@@ -18,14 +18,21 @@ The app allows you to upload an image of a human performing an action, and it pr
 
 ---
 
-## 📂 Project Structure
-human_action_recognition/
-│
-├─ app.py # Main Streamlit app
-├─ trained-model.h5 # Pretrained HAR model
-├─ requirements.txt # Core packages used
-├─ README.md # This file
-└─ venv/ # Optional: virtual environment folder
+
+---
+
+## ⚙️ Requirements
+
+- Python 3.13 (recommended)
+- Packages used in this project:
+
+```txt
+streamlit==1.49.0
+tensorflow==2.20.0
+numpy==2.3.2
+pillow==11.3.0
+
+- Note: All other dependancies will be installed automatically
 
 
 
