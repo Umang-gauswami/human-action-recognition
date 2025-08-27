@@ -68,7 +68,12 @@ pillow==11.3.0
      pip install streamlit==1.49.0
      ```
 ## 🖼While using the App
-     
+     1. Click on Browse files and select image from your system.
+
+     2. The app will display the uploaded image on the left.
+
+     3. The predicted action will appear on the right with the class index and label.
+
 
 
 
