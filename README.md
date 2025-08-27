@@ -1,5 +1,11 @@
 # Human Action Recognition App 🕺🤖
 
+## 🌐 Live Demo
+
+You can also try the **Human Action Recognition App** online without any setup:
+
+[Click here to open the live app](https://human-action-recognition-system.streamlit.app/)
+
 This is a **Human Action Recognition (HAR)** web app built with **Streamlit** and **TensorFlow**.  
 The app allows you to upload an image of a human performing an action, and it predicts the action from 15 supported classes.
 
@@ -16,4 +22,5 @@ The app allows you to upload an image of a human performing an action, and it pr
 ---
 
 ## 📂 Project Structure
+
 
