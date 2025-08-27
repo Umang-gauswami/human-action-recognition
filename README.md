@@ -25,7 +25,7 @@ The app allows you to upload an image of a human performing an action, and it pr
 
 - Python 3.13 (recommended)
 - Packages used in this project:
-
+requirements.txt -
 ```txt
 streamlit==1.49.0
 tensorflow==2.20.0
@@ -67,6 +67,7 @@ pillow==11.3.0
      2. The app will display the uploaded image on the left.
 
      3. The predicted action will appear on the right with the class index and name of the action.
+
 
 
 
