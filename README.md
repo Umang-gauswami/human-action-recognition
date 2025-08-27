@@ -60,19 +60,14 @@ pillow==11.3.0
      ```text
      streamlit run app.py
       ```
-     Note:Install one by one package to avoid conflict
-     ```text
-     pip install numpy==2.3.2
-     pip install pillow==11.3.0
-     pip install tensorflow==2.20.0
-     pip install streamlit==1.49.0
-     ```
+     
 ## 🖼While using the App
      1. Click on Browse files and select image from your system.
 
      2. The app will display the uploaded image on the left.
 
      3. The predicted action will appear on the right with the class index and name of the action.
+
 
 
 
