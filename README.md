@@ -32,9 +32,9 @@ tensorflow==2.20.0
 numpy==2.3.2
 pillow==11.3.0
 ```
-- Note: All other dependancies will be installed automatically
+- Note: All other dependencies will be installed automatically
 
-## Here steps to run the Humang Action Recognition App Locally
+## Steps to run the Human Action Recognition App Locally
 - 1. Create a new virtual environment and activate it ( Windows )
      ```text
      python -m venv venv
@@ -45,7 +45,7 @@ pillow==11.3.0
      python -m venv venv
      source venv/bin/activate
      ```
-- 3. Install all required packeges
+- 3. Install all required packages
      ```text
      pip install -r requirements.txt
       ```
@@ -67,6 +67,7 @@ pillow==11.3.0
      2. The app will display the uploaded image on the left.
 
      3. The predicted action will appear on the right with the class index and name of the action.
+
 
 
 
