@@ -72,7 +72,8 @@ pillow==11.3.0
 
      2. The app will display the uploaded image on the left.
 
-     3. The predicted action will appear on the right with the class index and label.
+     3. The predicted action will appear on the right with the class index and name of the action.
+
 
 
 
